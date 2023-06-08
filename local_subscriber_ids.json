@@ -1,4 +1,4 @@
-{"count": 20230601,"results": [
+{"count": 20230609,"results": [
 {"id":"302911","callsign":"RADIO1_ID","fname":"RadioID","name":"RadioID","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9005404","callsign":"FR_DMR1","fname":"Bridge","name":"Bridge","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9008888","callsign":"RFR_NODE1","fname":"Node","name":"Node","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
@@ -491,6 +491,7 @@
 {"id":"3155816","callsign":"HERKULES4","fname":"Andreas, Hagenburg","name":"Andreas","city":"Hagenburg","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"3810001","callsign":"13DW366","fname":"Jaro, Braunschweig","name":"Jaro","city":"Braunschweig","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"3303979","callsign":"13CT3379","fname":"Daniel, Nieheim","name":"Daniel","city":"Nieheim","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
+{"id":"330390","callsign":"RL1HX","fname":"Relais Nieheim","name":"Relais Nieheim","city":"Nieheim","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"3342801","callsign":"EMS1","fname":"Micha, Harsewinkel","name":"Micha","city":"Harsewinkel","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"3342802","callsign":"EMS2","fname":"Ulli, Harsewinkel","name":"Ulli","city":"Harsewinkel","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"3505001","callsign":"TOM","fname":"Thomas, Calau","name":"Thomas","city":"Calau","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
