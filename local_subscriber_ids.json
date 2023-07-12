@@ -1,4 +1,4 @@
-{"count": 20230602,"results": [
+{"count": 5638,"results": [
 {"callsign": "DC4KJS", "city": "Muenchen", "country": "Germany", "fname": "Christian", "id": 2638396, "remarks": "", "state": "Bayern", "surname": "Stefan"},
 {"callsign": "DL1SLH", "city": "Hamburg", "country": "Germany", "fname": "Barbara, Hamburg", "id": 2622426, "remarks": "FREEDMR.DIGITAL", "state": "Schleswig-Holstein", "surname": "Barbara"},
 {"callsign": "OE3CQB", "city": "", "country": "", "fname": "Christian", "id": 2323078, "remarks": "", "state": "", "surname": "Christian"},
@@ -5236,6 +5236,7 @@
 {"id":"6592900","callsign":"GUENNI","fname":"Guenni, Frankfurt","name":"Guenni","city":"Frankfurt","state":"Hessen","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"6592901","callsign":"GUENNI","fname":"Guenni, Frankfurt","name":"Guenni","city":"Frankfurt","state":"Hessen","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"66000","callsign":"RELAIS44","fname":"44DMR","name":"44DMR","city":"Loire-Atlantique","state":"44","country":"France","remarks":"44DMR"},
+{"id":"6690176","callsign":"CRISU76","fname":"Michael, Schoenenberg-Kuebelberg","name":"Michael","city":"Schoenenberg-Kuebelberg","state":"Rheinland-Pfalz","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"6703175","callsign":"FRS3175","fname":"Olivier","name":"Olivier","city":"Strasbourg","state":"67","country":"France","remarks":"FRS"},
 {"id":"6712415","callsign":"FRS2415","fname":"Bernard","name":"Bernard","city":"Oberna","state":"67","country":"France","remarks":"FRS"},
 {"id":"6714480","callsign":"FRS2278","fname":"Thierry","name":"Thierry","city":"Rountzenheim","state":"","country":"France","remarks":"FRS"},
