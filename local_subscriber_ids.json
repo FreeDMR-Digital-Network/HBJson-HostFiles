@@ -1,10 +1,4 @@
-{"count": 5638,"results": [
-{"callsign": "DC4KJS", "city": "Muenchen", "country": "Germany", "fname": "Christian", "id": 2638396, "remarks": "", "state": "Bayern", "surname": "Stefan"},
-{"callsign": "DL1SLH", "city": "Hamburg", "country": "Germany", "fname": "Barbara, Hamburg", "id": 2622426, "remarks": "FREEDMR.DIGITAL", "state": "Schleswig-Holstein", "surname": "Barbara"},
-{"callsign": "OE3CQB", "city": "", "country": "", "fname": "Christian", "id": 2323078, "remarks": "", "state": "", "surname": "Christian"},
-{"callsign": "OE3CQB", "city": "", "country": "", "fname": "Christian", "id": 2323246, "remarks": "", "state": "", "surname": "Christian"},
-{"callsign": "DB1JAE", "city": "Moenchengladbach", "country": "Germany", "fname": "Thomas, Moenchengladbach", "id": 2323246, "remarks": "FREEDMR.DIGITAL", "state": "Nordrhein-Westfalen", "surname": "Thomas"},
-{"callsign": "DL2OJ", "city": "Grevenbroich", "country": "Germany", "fname": "Olaf, Grevenbroich", "id": 2624784, "remarks": "FREEDMR.DIGITAL", "state": "Nordrhein-Westfalen", "surname": "Olaf"},
+{"count": 5632,"results": [
 {"id":"0","callsign":"N0CALL","fname":"N0CALL","name":"N0CALL","city":"WorldWide","state":"WorldWide","country":"WorldWide","remarks":"FREEDMR.DIGITAL"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
