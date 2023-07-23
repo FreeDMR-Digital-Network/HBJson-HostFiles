@@ -93,6 +93,7 @@
 {"id":"6433101","callsign":"13ING0","fname":"Ingo, Weiterstadt","name":"Ingo","city":"Weiterstadt","dept":"64331","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"6592900","callsign":"GUENNI","fname":"Guenni, Frankfurt","name":"Guenni","city":"Frankfurt","dept":"65929","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"6592901","callsign":"GUENNI","fname":"Guenni, Frankfurt","name":"Guenni","city":"Frankfurt","dept":"65929","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"6690176","callsign":"CRISU76","fname":"Michael, Schoenenberg-Kuebelberg","name":"Michael","city":"Schoenenberg-Kuebelberg","dept":"66901","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"6864201","callsign":"BALUNA","fname":"Christian, Buerstadt","name":"Christian","city":"Buerstadt","dept":"68642","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"7032200","callsign":"STH2707","fname":"Sven, Bosen-Eckelhausen","name":"Sven","city":"Bosen-Eckelhausen","dept":"66625","state":"Saarland","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"7675100","callsign":"RHEIN1","fname":"Mario, Jockgrim","name":"Mario","city":"Jockgrim","dept":"76751","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
