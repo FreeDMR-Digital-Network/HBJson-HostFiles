@@ -31,6 +31,7 @@
 {"id":"2637788","callsign":"FR3PWA","fname":"Wolfgang, Jever","name":"Wolfgang","city":"Jever","dept":"26377","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2639988","callsign":"FR3FMA","fname":"Mirko, Varel","name":"Mirko","city":"Varel","dept":"26316","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2639990","callsign":"WH3CBA","fname":"Benny, Wilhelmshaven","name":"Benny","city":"Wilhelmshaven","dept":"26382","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"265456","callsign":"DMRFRN","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","dept":"","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2668169","callsign":"POLYKA1","fname":"Vince, Mannheim","name":"Vince","city":"Mannheim","dept":"68169","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2711571","callsign":"WOLF81","fname":"Wolfgang, Heiligenhafen","name":"Wolfgang","city":"Heiligenhafen","dept":"23774","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2771101","callsign":"OHZER1","fname":"Benjamin, Osterholz-Scharmbeck","name":"Benjamin","city":"Osterholz-Scharmbeck","dept":"27711","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
