@@ -11,6 +11,11 @@
       "tgid": "TG2"
    },
    {
+      "id": 3,
+      "callsign": "CROSSLINK FRN-MITTELSACHSEN",
+      "tgid": "TG3"
+   },
+   {
       "id": 6,
       "callsign": "HB Reflector",
       "tgid": "TG6"
