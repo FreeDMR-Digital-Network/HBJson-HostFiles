@@ -5196,7 +5196,7 @@
 {"id":"265456","callsign":"DMRFRN","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","dept":"","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654565","callsign":"AJ1","fname":"Andreas, Regis-Breitingen","name":"Andreas","city":"Regis-Breitingen","dept":"04565","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654790","callsign":"U96","fname":"Dennis, Bad Lausick","name":"Dennis","city":"Bad Lausick","dept":"04651","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2654477","callsign":"13HN640","fname":"Silvio, Bruenn","name":"Silvio","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654977","callsign":"13HN640","fname":"Silvio, Bruenn","name":"Silvio","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654993","callsign":"13HN5003","fname":"Sebastian, Neuhaus am Rennweg","name":"Sebastian","city":"Neuhaus am Rennweg","dept":"98724","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2668169","callsign":"POLYKA1","fname":"Vince, Mannheim","name":"Vince","city":"Mannheim","dept":"68169","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2712978","callsign":"FR38WIZ","fname":"Nicolas","name":"Nicolas","city":"Isere","dept":"","land":"208","state":"38","country":"France","remarks":"THESHIELD"},
