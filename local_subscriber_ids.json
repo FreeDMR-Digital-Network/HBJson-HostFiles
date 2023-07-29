@@ -5162,7 +5162,7 @@
 {"id":"2653022","callsign":"GVOLI","fname":"Olaf, Grevenbroich","name":"Olaf","city":"Grevenbroich","dept":"41515","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653023","callsign":"PHANT0M","fname":"Oliver, Gelsenkirchen","name":"Oliver","city":"Gelsenkirchen","dept":"45899","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653024","callsign":"HS1DMR","fname":"Ulf, Breberen","name":"Ulf","city":"Breberen","dept":"52538","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2653024","callsign":"OL4AFG","fname":"Olaf, Dortmund","name":"Olaf","city":"Dortmund","dept":"44359","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653026","callsign":"OL4AFG","fname":"Olaf, Dortmund","name":"Olaf","city":"Dortmund","dept":"44359","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653025","callsign":"KARO503","fname":"Klaus, Castrop-Rauxel","name":"Klaus","city":"Castrop-Rauxel","dept":"44579","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265303","callsign":"RL1HX","fname":"Relais Nieheim","name":"Relais Nieheim","city":"Nieheim","dept":"33039","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265304","callsign":"DMRSVX","fname":"DMR - Analog, Crosslink Castrop-Rauxel","name":"Micha","city":"Castrop-Rauxel","dept":"44577","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
