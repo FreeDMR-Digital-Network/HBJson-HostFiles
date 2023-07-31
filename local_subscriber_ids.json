@@ -1,4 +1,4 @@
-{"count": 5636,"results": [
+{"count": 5638,"results": [
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000273","callsign":"29CT067","fname":"Ollie, Bundoran","name":"Ollie","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5107,6 +5107,7 @@
 {"id":"2651571","callsign":"WOLF81","fname":"Wolfgang, Heiligenhafen","name":"Wolfgang","city":"Heiligenhafen","dept":"23774","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651623","callsign":"BAKE","fname":"Zeitansage NDS/HB","name":"Zeitansage NDS/HB","city":"Bremen","dept":"27801","state":"Germany","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651628","callsign":"LA0NEA","fname":"Lanea, Aerzen","name":"Lanea","city":"Aerzen","dept":"31855","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651666","callsign":"1313TH","fname":"Torben, Hassmoor","name":"Torben","city":"Hassmoor","dept":"24790","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265170","callsign":"RL1HB","fname":"Relais Bremen Kattenturm","name":"Relais Bremen Kattenturm","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651701","callsign":"BA0FENG","fname":"Leo, Bremen Kattenturm","name":"Leo","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651702","callsign":"DINA01","fname":"Irmgard, Bremen Kattenturm","name":"Irmgard","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5162,8 +5163,8 @@
 {"id":"2653022","callsign":"GVOLI","fname":"Olaf, Grevenbroich","name":"Olaf","city":"Grevenbroich","dept":"41515","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653023","callsign":"PHANT0M","fname":"Oliver, Gelsenkirchen","name":"Oliver","city":"Gelsenkirchen","dept":"45899","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653024","callsign":"HS1DMR","fname":"Ulf, Breberen","name":"Ulf","city":"Breberen","dept":"52538","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2653026","callsign":"OL4AFG","fname":"Olaf, Dortmund","name":"Olaf","city":"Dortmund","dept":"44359","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653025","callsign":"KARO503","fname":"Klaus, Castrop-Rauxel","name":"Klaus","city":"Castrop-Rauxel","dept":"44579","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653026","callsign":"OL4AFG","fname":"Olaf, Dortmund","name":"Olaf","city":"Dortmund","dept":"44359","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265303","callsign":"RL1HX","fname":"Relais Nieheim","name":"Relais Nieheim","city":"Nieheim","dept":"33039","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265304","callsign":"DMRSVX","fname":"DMR - Analog, Crosslink Castrop-Rauxel","name":"Micha","city":"Castrop-Rauxel","dept":"44577","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653112","callsign":"CRISU76","fname":"Michael, Schoenenberg-Kuebelberg","name":"Michael","city":"Schoenenberg-Kuebelberg","dept":"66901","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5190,6 +5191,7 @@
 {"id":"2654012","callsign":"DG3","fname":"Daniel, Brand-Erbisdorf","name":"Daniel","city":"Brand-Erbisdorf","dept":"09618","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654013","callsign":"13RF814","fname":"Enrico, Hildburghausen","name":"Enrico","city":"Hildburghausen","dept":"98646","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265403","callsign":"RL1MTL","fname":"Relais Bad Lausick","name":"Relais Bad Lausick","city":"Bad Lausick","dept":"04651","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654103","callsign":"BEBRA3","fname":"Marcel, Sondershausen","name":"Marcel","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654109","callsign":"13RF895","fname":"Tom, Berlin","name":"Tom","city":"Berlin","dept":"12109","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654110","callsign":"FUERST","fname":"Lars, Fuerstenwalde (Spree)","name":"Lars","city":"Fuerstenwalde (Spree)","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654548","callsign":"WOLKE01","fname":"Kata, Bruenn","name":"Kata","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
