@@ -5078,7 +5078,7 @@
 {"id":"2651007","callsign":"ECHO1","fname":"Norbert, Fehmarn","name":"Norbert","city":"Fehmarn","dept":"23769","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651008","callsign":"MUMBLE TG8 NDS - HB","fname":"Mumble TG8 NDS - HB","name":"Mumble TG8 NDS - HB","city":"NDS - HB","dept":"27801","land":"4","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265101","callsign":"RL1HH","fname":"Relais Hamburg","name":"Relais Hamburg","city":"Hamburg","dept":"22417","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2651021","callsign":"WESER1","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651021","callsign":"DAX021","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265110","callsign":"RL1OL","fname":"Relais Oldenburg Brettorf","name":"Relais Oldenburg Brettorf","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651100","callsign":"HUNTE1","fname":"Christian, Oldenburg","name":"Christian","city":"Oldenburg","dept":"26131","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651101","callsign":"SHORTY71","fname":"Jockel, Oldenburg Brettorf","name":"Jockel","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
