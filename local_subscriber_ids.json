@@ -1,4 +1,4 @@
-{"count": 5648,"results": [
+{"count": 5650,"results": [
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000273","callsign":"29CT067","fname":"Ollie, Bundoran","name":"Ollie","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5136,6 +5136,7 @@
 {"id":"2652013","callsign":"13PD10","fname":"Paul, Woelbattendorf","name":"Paul","city":"Woelbattendorf","dept":"95030","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652014","callsign":"13PD10","fname":"Paul, Woelbattendorf","name":"Paul","city":"Woelbattendorf","dept":"95030","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652015","callsign":"LASPEZIA79","fname":"Maurizio, Veltheim (AG)","name":"Maurizio","land":"228","city":"5106 Veltheim","state":"228","country":"Switzerland","remarks":"FreeDMR Digital"},
+{"id":"2652016","callsign":"USI01","fname":"Rainer, Usingen","name":"Rainer","city":"Usingen","dept":"61250","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652100","callsign":"JD02","fname":"Thomas, Oberstdorf","name":"Thomas","city":"Oberstdorf","dept":"87561","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652700","callsign":"13HN267","fname":"Wolfgang, Neu-Anspach","name":"Wolfgang","city":"Neu-Anspach","dept":"61267","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
