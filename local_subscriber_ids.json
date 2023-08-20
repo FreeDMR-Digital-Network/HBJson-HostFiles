@@ -1,4 +1,4 @@
-{"count": 5651,"results": [
+{"count": 5652,"results": [
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000273","callsign":"29CT067","fname":"Ollie, Bundoran","name":"Ollie","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5207,6 +5207,7 @@
 {"id":"2654109","callsign":"13RF895","fname":"Tom, Berlin","name":"Tom","city":"Berlin","dept":"12109","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654110","callsign":"FUERST","fname":"Lars, Fuerstenwalde (Spree)","name":"Lars","city":"Fuerstenwalde (Spree)","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654255","callsign":"ST63","fname":"Thomas, Sondershausen","name":"Thomas","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654265","callsign":"HYPER","fname":"Johannes, Zerbst","name":"Johannes","city":"Zerbst","dept":"39261","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654548","callsign":"WOLKE01","fname":"Kata, Bruenn","name":"Kata","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265456","callsign":"DMRFRN","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","dept":"","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654565","callsign":"AJ1","fname":"Andreas, Regis-Breitingen","name":"Andreas","city":"Regis-Breitingen","dept":"04565","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
