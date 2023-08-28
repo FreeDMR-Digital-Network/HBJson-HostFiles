@@ -1,4 +1,4 @@
-{"count": 5658,"results": [
+{"count": 5659,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5177,6 +5177,7 @@
 {"id":"265304","callsign":"DMRSVX","fname":"DMR - Analog, Crosslink Castrop-Rauxel","name":"Micha","city":"Castrop-Rauxel","dept":"44577","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653077","callsign":"13FB077","fname":"Patrick, Muelheim","name":"Patrick","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653083","callsign":"KUGELFISCH","fname":"Stephanie, Muelheim","name":"Stephanie","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653101","callsign":"BAMBI","fname":"Ria, Emmerich am Rhein","name":"Ria","city":"Emmerich am Rhein","dept":"46446","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653112","callsign":"CRISU76","fname":"Michael, Schoenenberg-Kuebelberg","name":"Michael","city":"Schoenenberg-Kuebelberg","dept":"66901","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653150","callsign":"DW1PBJ","fname":"Jens, Hoevelhof (LKW)","name":"Jens","city":"Hoevelhof","dept":"33161","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653151","callsign":"DW1PBJ","fname":"Jens, Hoevelhof (HG)","name":"Jens","city":"Hoevelhof","dept":"33161","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
