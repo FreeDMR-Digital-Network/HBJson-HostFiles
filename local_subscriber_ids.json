@@ -1,4 +1,4 @@
-{"count": 5664,"results": [
+{"count": 5668,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5081,6 +5081,7 @@
 {"id":"2651006","callsign":"13DW366","fname":"Jaro, Braunschweig","name":"Jaro","city":"Braunschweig","dept":"38100","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651007","callsign":"ECHO1","fname":"Norbert, Fehmarn","name":"Norbert","city":"Fehmarn","dept":"23769","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651008","callsign":"MUMBLE TG8 NDS - HB","fname":"Mumble TG8 NDS - HB","name":"Mumble TG8 NDS - HB","city":"NDS - HB","dept":"27801","land":"4","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651009","callsign":"ANDI_J","fname":"Andreas, Bueckeburg","name":"Andreas","city":"Bueckeburg","dept":"31675","land":"4","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265101","callsign":"RL1HH","fname":"Relais Hamburg","name":"Relais Hamburg","city":"Hamburg","dept":"22417","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651021","callsign":"DAX021","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265110","callsign":"RL1OL","fname":"Relais Oldenburg Brettorf","name":"Relais Oldenburg Brettorf","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5108,6 +5109,7 @@
 {"id":"265150","callsign":"RL1DEL","fname":"Relais Delmenhorst Adelheide","name":"Relais Delmenhorst Adelheide","city":"Delmenhorst Adelheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651501","callsign":"BROESEL59","fname":"Rolf, Delmenhorst Annenheide","name":"Rolf","city":"Delmenhorst Annenheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651510","callsign":"DOLE64","fname":"Andreas, Delmenhorst Adelheide","name":"Andreas","city":"Delmenhorst Adelheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651555","callsign":"13HN048","fname":"Manfred, Hamburg","name":"Manfred","city":"Hamburg","dept":"22417","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651571","callsign":"WOLF81","fname":"Wolfgang, Heiligenhafen","name":"Wolfgang","city":"Heiligenhafen","dept":"23774","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651623","callsign":"BAKE2623","fname":"Zeitansage NDS/HB","name":"Zeitansage NDS/HB","city":"Bremen","dept":"27801","state":"Germany","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651628","callsign":"LA0NEA","fname":"Lanea, Aerzen","name":"Lanea","city":"Aerzen","dept":"31855","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5142,6 +5144,8 @@
 {"id":"2652014","callsign":"13PD10","fname":"Paul, Woelbattendorf","name":"Paul","city":"Woelbattendorf","dept":"95030","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652015","callsign":"13GB75","fname":"Gerd, Schoellnach","name":"Gerd","city":"Schoellnach","dept":"94508","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652016","callsign":"USI01","fname":"Rainer, Usingen","name":"Rainer","city":"Usingen","dept":"61250","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652017","callsign":"13HH676","fname":"Marcel, Mannheim","name":"Marcel","city":"Mannheim","dept":"68159","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652018","callsign":"13HH6761","fname":"Jenny, Mannheim","name":"Jenny","city":"Mannheim","dept":"68159","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652100","callsign":"JD02","fname":"Thomas, Oberstdorf","name":"Thomas","city":"Oberstdorf","dept":"87561","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652158","callsign":"13OP25","fname":"Jochen, Muehlacker","name":"Jochen","city":"Muehlacker","dept":"75417","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
