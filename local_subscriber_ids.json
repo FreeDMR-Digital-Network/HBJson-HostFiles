@@ -1,4 +1,4 @@
-{"count": 5668,"results": [
+{"count": 5669,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5106,6 +5106,7 @@
 {"id":"2651333","callsign":"BAKE262","fname":"Info-Bake FreeDMR Digital","name":"Info-Bake FreeDMR Digital","city":"Germany","dept":"22417","state":"Germany","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651388","callsign":"BROKER88","fname":"Andy, Vielank","name":"Andy","city":"Vielank","dept":"19303","land":"7","state":"Mecklenburg-Vorpommern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651444","callsign":"REF091","fname":"Analog-Reflector 091","name":"Analog-Reflector 091","city":"Germany","dept":"22417","state":"Germany","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651468","callsign":"SCHNEEFLOCKE","fname":"Stephan, Wolfenbuettel","name":"Stephan","city":"Wolfenbuettel","dept":"38300","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"265150","callsign":"RL1DEL","fname":"Relais Delmenhorst Adelheide","name":"Relais Delmenhorst Adelheide","city":"Delmenhorst Adelheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651501","callsign":"BROESEL59","fname":"Rolf, Delmenhorst Annenheide","name":"Rolf","city":"Delmenhorst Annenheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651510","callsign":"DOLE64","fname":"Andreas, Delmenhorst Adelheide","name":"Andreas","city":"Delmenhorst Adelheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
