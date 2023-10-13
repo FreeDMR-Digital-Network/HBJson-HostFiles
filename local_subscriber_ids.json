@@ -5249,7 +5249,7 @@
 {"id":"2655010","callsign":"RL1DEL","fname":"Relais Delmenhorst Adelheide","name":"Relais Delmenhorst Adelheide","city":"Delmenhorst Adelheide","dept":"27755","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655011","callsign":"DMRFRN","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","dept":"","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655012","callsign":"RL1HB","fname":"Relais Bremen Kattenturm","name":"Relais Bremen Kattenturm","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2655013","callsign":"ZELLO","fname":"Zello FreeDMR Digial","name":"Zello","city":"FreeDMR Digital","dept":"","land":"","state":"FreeDMR Digital","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655013","callsign":"ZELLO","fname":"Zello FreeDMR Digital","name":"Zello","city":"FreeDMR Digital","dept":"","land":"","state":"FreeDMR Digital","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2712978","callsign":"FR38WIZ","fname":"Nicolas","name":"Nicolas","city":"Isere","dept":"","land":"208","state":"38","country":"France","remarks":"THESHIELD"},
 {"id":"2909740","callsign":"FRS9740","fname":"Nicolas","name":"Nicolas","city":"Lannilis","dept":"","land":"208","state":"29","country":"France","remarks":"FRS"},
 {"id":"299003","callsign":"US99L1","fname":"Laurent","name":"Laurent","city":"USA","dept":"","land":"208","state":"310","country":"USA","remarks":"THESHIELD"},
