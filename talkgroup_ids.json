@@ -16,20 +16,15 @@
       "tgid": "TG3"
    },
    {
-      "id": 6,
-      "callsign": "HB Reflector",
-      "tgid": "TG6"
-   },
-       {
-      "id": 7,
-      "callsign": "HB Local",
-      "tgid": "TG7"
+      "id": 4,
+      "callsign": "TECH-TALK LOCAL",
+      "tgid": "TG4"
    },
    {
-      "id": 8,
-      "callsign": "HB Cluster",
-      "tgid": "TG8"
-   },
+      "id": 5,
+      "callsign": "CROSSLINK TX-RX.DE",
+      "tgid": "TG5"
+   }, 
    {
       "id": 9,
       "callsign": "DIAL-a-TG",
@@ -564,6 +559,11 @@
       "id": 973,
       "callsign": "SOTA TG973",
       "tgid": "TG973"
+   },
+   {
+      "id": 974,
+      "callsign": "F974DMR ILE DE LA REUNION",
+      "tgid": "TG974"
    },
    {
       "id": 2021,
@@ -3781,6 +3781,11 @@
       "tgid": "TG26266"
    },
    {
+      "id": 26267,
+      "callsign": "MAIN-KINZIG-KREIS",
+      "tgid": "TG26267"
+   },
+   {
       "id": 26270,
       "callsign": "STUTTGART",
       "tgid": "TG26270"
@@ -4044,6 +4049,56 @@
       "id": 27248,
       "callsign": "XLX 925 C TG27248",
       "tgid": "TG27248"
+   },
+   {
+      "id": 27250,
+      "callsign": "IRL CONNACHT",
+      "tgid": "TG27250"
+   },
+   {
+      "id": 272500,
+      "callsign": "IRL SLIGO",
+      "tgid": "TG272500"
+   },
+   {
+      "id": 27251,
+      "callsign": "IRL LEINSTER",
+      "tgid": "TG27251"
+   },
+   {
+      "id": 272510,
+      "callsign": "IRL DUBLIN",
+      "tgid": "TG272510"
+   },
+   {
+      "id": 272519,
+      "callsign": "DUBLIN REPEATER 446",
+      "tgid": "TG272519"
+   },
+   {
+      "id": 27252,
+      "callsign": "IRL MUNSTER",
+      "tgid": "TG27252"
+   },
+   {
+      "id": 27253,
+      "callsign": "IRL ULSTER",
+      "tgid": "TG27253"
+   },
+   {
+      "id": 272530,
+      "callsign": "RL DONEGAL",
+      "tgid": "TG272530"
+   },
+   {
+      "id": 272538,
+      "callsign": "ZELLO FREEDMR IRELAND",
+      "tgid": "TG272538"
+   },
+   {
+      "id": 272501,
+      "callsign": "IRL LEITRIM",
+      "tgid": "TG272501"
    },
    {
       "id": 27273,
@@ -5781,11 +5836,6 @@
       "tgid": "TG46610"
    },
    {
-      "id": 472003,
-      "callsign": "RL1MTL - RELAIS BAD LAUSICK",
-      "tgid": "TG472003"
-   },
-   {
       "id": 50210,
       "callsign": "MY WIRES-X YSF BRIDGE TG50210",
       "tgid": "TG50210"
@@ -6089,6 +6139,11 @@
       "id": 74840,
       "callsign": "CX TAC 2 TG74840",
       "tgid": "TG74840"
+   },
+   {
+      "id": 77777,
+      "callsign": "ZELLO - FREEDMR DIGITAL",
+      "tgid": "TG77777"
    },
    {
       "id": 91665,
@@ -6731,9 +6786,94 @@
       "tgid": "TG2709112"
    },
    {
-      "id": 4023700,
+      "id": 2651388,
+      "callsign": "PRIVAT-TG BROKER88",
+      "tgid": "TG2651388"
+   }, 
+   {
+      "id": 2651904,
+      "callsign": "PRIVAT-TG 13HB364",
+      "tgid": "TG2651904"
+   },
+   {
+      "id": 2652001,
+      "callsign": "PRIVAT-TG OM1NET",
+      "tgid": "TG2652001"
+   },
+   {
+      "id": 2654109,
+      "callsign": "PRIVAT-TG 13RF895",
+      "tgid": "TG2654109"
+   },
+   {
+      "id": 2651990,
+      "callsign": "WILHELMSHAVEN PRIVAT-TG WH3CBA",
+      "tgid": "TG2651990"
+   },
+   {
+      "id": 2652793,
+      "callsign": "PRIVAT-TG CB93",
+      "tgid": "TG2652793"
+   },  
+   {
+      "id": 2655001,
       "callsign": "RL1HH - RELAIS HAMBURG",
-      "tgid": "TG4023700"
+      "tgid": "TG265101"
+   },
+   {
+      "id": 2655002,
+      "callsign": "CB0FBG - CROSSLINK FRN-MITTELSCHSEN",
+      "tgid": "TG2655002"
+   },
+   {
+      "id": 2655003,
+      "callsign": "RL1HX - RELAIS NIEHEIM",
+      "tgid": "TG2655003"
+   },
+   {
+      "id": 2655005,
+      "callsign": "RL1MTL - RELAIS BAD LAUSICK",
+      "tgid": "TG2655005"
+   },
+   {
+      "id": 2655006,
+      "callsign": "RL1MTL - RELAIS BAD LAUSICK",
+      "tgid": "TG2655006"
+   },
+   {
+      "id": 2655011,
+      "callsign": "DMRFRN - CROSSLINK FRN-MITTELSACHSEN",
+      "tgid": "TG2655011"
+   },
+   {
+      "id": 2655013,
+      "callsign": "ZELLO - FREEDMR DIGITAL",
+      "tgid": "TG2655013"
+   },
+   {
+      "id": 2654103,
+      "callsign": "KYFFHÄUSERKREIS PRIVAT-TG BEBRA3",
+      "tgid": "TG2654103"
+   },
+   {
+      "id": 2654265,
+      "callsign": "PRIVAT-TG HYPER",
+      "tgid": "TG2654265"
+   },
+   {
+      "id": 2654790,
+      "callsign": "PRIVAT-TG U96",
+      "tgid": "TG2654790"
+   },
+   {
+      "id": 2654993,
+      "callsign": "PRIVAT-TG 13HN5003",
+      "tgid": "TG2654993"
+   },
+   {
+      "id": 2654565,
+      "callsign": "PRIVAT-TG AJ1",
+      "tgid": "TG2654565"
    },
    {
       "id": 5059742,
