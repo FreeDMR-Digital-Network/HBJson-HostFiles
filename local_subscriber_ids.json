@@ -1,4 +1,4 @@
-{"count": 5700,"results": [
+{"count": 5702,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5240,6 +5240,7 @@
 {"id":"2654111","callsign":"13OT4664","fname":"Norbert, Berlin","name":"Norbert","city":"Berlin","dept":"12109","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654255","callsign":"ST63","fname":"Thomas, Sondershausen","name":"Thomas","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654265","callsign":"HYPER","fname":"Johannes, Zerbst","name":"Johannes","city":"Zerbst","dept":"39261","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654321","callsign":"JW1HAL","fname":"Jan, Halle - Saale","name":"Jan","city":"Halle","dept":"06132","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654548","callsign":"WOLKE01","fname":"Kata, Bruenn","name":"Kata","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654565","callsign":"AJ1","fname":"Andreas, Regis-Breitingen","name":"Andreas","city":"Regis-Breitingen","dept":"04565","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654790","callsign":"U96","fname":"Dennis, Bad Lausick","name":"Dennis","city":"Bad Lausick","dept":"04651","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5262,6 +5263,7 @@
 {"id":"2655011","callsign":"DMRFRN","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","dept":"","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655012","callsign":"RL1HB","fname":"Relais Bremen Kattenturm","name":"Relais Bremen Kattenturm","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655013","callsign":"ZELLO","fname":"Zello FreeDMR Digital","name":"Zello","city":"FreeDMR Digital","dept":"","land":"","state":"FreeDMR Digital","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655014","callsign":"TXRXDE","fname":"Crosslink TX-RX.DE","name":"Crosslink TX-RX.DE","city":"Halle - Saale","dept":"06132","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2712978","callsign":"FR38WIZ","fname":"Nicolas","name":"Nicolas","city":"Isere","dept":"","land":"208","state":"38","country":"France","remarks":"THESHIELD"},
 {"id":"2909740","callsign":"FRS9740","fname":"Nicolas","name":"Nicolas","city":"Lannilis","dept":"","land":"208","state":"29","country":"France","remarks":"FRS"},
 {"id":"299003","callsign":"US99L1","fname":"Laurent","name":"Laurent","city":"USA","dept":"","land":"208","state":"310","country":"USA","remarks":"THESHIELD"},
