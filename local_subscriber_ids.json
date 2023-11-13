@@ -5253,7 +5253,7 @@
 {"id":"2654910","callsign":"OLDYANKEE","fname":"Michael, Sondershausen","name":"Michael","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654964","callsign":"13TH1964","fname":"Maik, Bad Frankenhausen","name":"Maik","city":"Bad Frankenhausen","dept":"06567","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654977","callsign":"13HN640","fname":"Silvio, Bruenn","name":"Silvio","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2654993","callsign":"13HN5003","fname":"Sebastian, Neuhaus am Rennweg","name":"Sebastian","city":"Neuhaus am Rennweg","dept":"98724","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654993","callsign":"KEULE1","fname":"Sebastian, Neuhaus am Rennweg","name":"Sebastian","city":"Neuhaus am Rennweg","dept":"98724","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654999","callsign":"RP9","fname":"Alexander, Kyffhaeuserland","name":"Alexander","city":"Kyffhaeuserland","dept":"99707","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655000","callsign":"HS1MH","fname":"Relais Muelheim","name":"Relais Muelheim","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655001","callsign":"RL1HH","fname":"Relais Hamburg","name":"Relais Hamburg","city":"Hamburg","dept":"22417","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
