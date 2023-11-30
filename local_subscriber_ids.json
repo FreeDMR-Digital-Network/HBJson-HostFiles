@@ -1,4 +1,4 @@
-{"count": 5716,"results": [
+{"count": 5715,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5158,6 +5158,7 @@
 {"id":"2652019","callsign":"13PW01","fname":"Roland, Hof","name":"Roland","city":"Hof","dept":"95028","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652020","callsign":"13TH562","fname":"Sven, Stuttgart","name":"Sven","city":"Stuttgart","dept":"70374","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652021","callsign":"FLATLINE","fname":"Andreas, Stuttgart","name":"Andreas","city":"Stuttgart","dept":"70372","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652022","callsign":"SPUTNIK","fname":"Harry, Schweinfurt","name":"Harry","city":"Schweinfurt","dept":"97421","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652023","callsign":"MIKE ROMEO","fname":"Markus, Kronach","name":"Markus","city":"Kronach","dept":"96317","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652035","callsign":"EREMIT","fname":"Ralph, Veitsbronn","name":"Ralph","city":"Veitsbronn","dept":"90587","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
