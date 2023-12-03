@@ -1,4 +1,4 @@
-{"count": 5713,"results": [
+{"count": 5715,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5089,6 +5089,7 @@
 {"id":"2651009","callsign":"ANDI_J","fname":"Andreas, Bueckeburg","name":"Andreas","city":"Bueckeburg","dept":"31675","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651010","callsign":"DAC989","fname":"Ulrich, Schwarme","name":"Ulrich","city":"Schwarme","dept":"27327","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651011","callsign":"DE13MS","fname":"Axel, Isernhagen","name":"Axel","city":"Isernhagen","dept":"30916","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651012","callsign":"13HN306","fname":"Andreas, Hannover","name":"Andreas","city":"Hannover","dept":"30629","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651021","callsign":"DAX021","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651100","callsign":"HUNTE1","fname":"Christian, Oldenburg","name":"Christian","city":"Oldenburg","dept":"26131","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651101","callsign":"SHORTY71","fname":"Jockel, Oldenburg Brettorf","name":"Jockel","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5226,6 +5227,7 @@
 {"id":"2653801","callsign":"EMS1","fname":"Micha, Harsewinkel","name":"Micha","city":"Harsewinkel","dept":"33428","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653802","callsign":"EMS2","fname":"Ulli, Harsewinkel","name":"Ulli","city":"Harsewinkel","dept":"33428","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653963","callsign":"D12FCMT","fname":"Chris, Bruchkoebel","name":"Chris","city":"Bruchkoebel","dept":"63486","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653967","callsign":"13GS967","fname":"Guido, Dueren","name":"Guido","city":"Dueren","dept":"52349","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654001","callsign":"13BLN82","fname":"Markus, Berlin","name":"Markus","city":"Berlin","dept":"12103","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654002","callsign":"DFO702","fname":"Hartmut, Frankfurt - Oder","name":"Hartmut","city":"Frankfurt","dept":"15234","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654003","callsign":"13OT702","fname":"Hartmut, Frankfurt - Oder","name":"Hartmut","city":"Frankfurt","dept":"14234","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
