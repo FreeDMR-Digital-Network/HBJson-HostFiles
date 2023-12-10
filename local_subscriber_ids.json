@@ -1,4 +1,4 @@
-{"count": 5717,"results": [
+{"count": 5718,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -8,7 +8,7 @@
 {"id":"1000305","callsign":"29ICB051","fname":"Chris, Carrick-On-Shannon","name":"Chris","city":"Carrick-On-Shannon","dept":"","land":"272","state":"Leitrim","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000306","callsign":"29IOP076","fname":"Les, Dromahair","name":"Les","city":"Dromahair","dept":"","land":"272","state":"Leitrim","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000307","callsign":"29SD029","fname":"Michael, Killybegs","name":"Michael","city":"Killybegs","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
-{"id":"1000309","callsign":"68TC370","fname":"Stephen, Strabane","name":"Stephen","city":"Strabane","dept":"","land":"272","state":"272","country":"NIreland","remarks":"FREEDMR.IRELAND"},
+{"id":"1000309","callsign":"68TC370","fname":"Stephen, Strabane","name":"Stephen","city":"Strabane","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000501","callsign":"29IF29","fname":"Keelan, Dublin","name":"Keelan","city":"Dublin","dept":"","land":"272","state":"100","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1011003","callsign":"KIMI","fname":"Khim","name":"Khim","city":"France","dept":"","land":"208","state":"99","country":"France","remarks":"THESHIELD"},
 {"id":"1011247","callsign":"FRS1247","fname":"Joel","name":"Joel","city":"Vitry-sur-Seine","dept":"","land":"208","state":"94","country":"France","remarks":"THESHIELD"},
@@ -5074,6 +5074,7 @@
 {"id":"2089527","callsign":"FRS2921","fname":"Francois","name":"Francois","city":"Berck","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"2102015","callsign":"LASPEZIA79","fname":"Maurizio, Veltheim - AG","name":"Maurizio","land":"228","city":"5106 Veltheim","state":"228","country":"Switzerland","remarks":"FreeDMR Digital"},
 {"id":"2104500","callsign":"HBSAX64","fname":"Erhard, Bern","name":"Erhard","city":"Bern","land":"228","state":"Bern","country":"Switzerland","remarks":"FreeDMR Digital"},
+{"id":"2161111","callsign":"HSZENTES","fname":"DMR-Repeater Hungary","name":"DMR-Repeater Hungary","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2281238","callsign":"CH22PH","fname":"Passah","name":"Passah","city":"Switzerland","land":"228","state":"228","country":"Switzerland","remarks":"FRDMR"},
 {"id":"2312059","callsign":"FRS2312","fname":"Freddy","name":"Freddy","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"7360DMR"},
 {"id":"2325999","callsign":"KLSC","fname":"Klemens, Katsdorf","name":"Klemens","city":"Katsdorf","dept":"4223","land":"232","state":"Oberoesterreich","country":"Austria","remarks":"FreeDMR Austria"},
