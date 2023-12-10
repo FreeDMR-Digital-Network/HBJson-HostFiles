@@ -5526,6 +5526,7 @@
 {"id":"9175002","callsign":"FR75OM","fname":"Othmane","name":"Othmane","city":"Paris","dept":"","land":"208","state":"75","country":"France","remarks":"FRDMR"},
 {"id":"9177001","callsign":"FR77DM","fname":"Daniel","name":"Daniel","city":"Seine-et-Marne","dept":"","land":"208","state":"77","country":"France","remarks":"FRDMR"},
 {"id":"9177002","callsign":"FR77CD","fname":"C","name":"C","city":"Seine-et-Marne","dept":"","land":"208","state":"77","country":"France","remarks":"FRDMR"},
+{"id":"9177003","callsign":"FR77SR","fname":"Sebastien","name":"Sebastien","city":"Guignes","dept":"","land":"208","state":"77","country":"France","remarks":"F62DMR"},	
 {"id":"9178001","callsign":"FR78FD","fname":"Fred","name":"Fred","city":"Yvelines","dept":"","land":"208","state":"78","country":"France","remarks":"FRDMR"},
 {"id":"9191001","callsign":"FR91EF","fname":"Emmanuel","name":"Emmanuel","city":"Essonne","dept":"","land":"208","state":"91","country":"France","remarks":"FRDMR"},
 {"id":"9191002","callsign":"FR91SS","fname":"S","name":"S","city":"Essonne","dept":"","land":"208","state":"91","country":"France","remarks":"FRDMR"},
