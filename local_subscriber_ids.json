@@ -5250,6 +5250,7 @@
 {"id":"2654016","callsign":"NUFFY","fname":"Andreas, Leipzig","name":"Andreas","city":"Leipzig","dept":"04329","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654017","callsign":"13TH2411","fname":"Andreas, Leipzig","name":"Andreas","city":"Leipzig","dept":"04205","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654018","callsign":"13TH307","fname":"Ronny, Suhl","name":"Ronny","city":"Suhl","dept":"98529","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654019","callsign":"13MHBER1","fname":"Mark, Berlin","name":"Mark","city":"Berlin","dept":"10305","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654047","callsign":"13HN2047","fname":"Daniel, Ebeleben","name":"Daniel","city":"Ebeleben","dept":"99713","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654103","callsign":"BEBRA3","fname":"Marcel, Sondershausen","name":"Marcel","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654109","callsign":"13RF895","fname":"Tom, Berlin","name":"Tom","city":"Berlin","dept":"12109","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
