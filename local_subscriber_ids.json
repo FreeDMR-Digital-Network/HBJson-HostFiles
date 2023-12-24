@@ -5177,6 +5177,7 @@
 {"id":"2652814","callsign":"13AS25","fname":"Andreas, Hof","name":"Andreas","city":"Hof","dept":"95028","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652907","callsign":"BANDIT","fname":"Markus, Troestau","name":"Markus","city":"Troestau","dept":"95709","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652983","callsign":"13RBK83","fname":"Peter, Kelheim","name":"Peter","city":"Kelheim","dept":"93309","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653000","callsign":"13HN562","fname":"Bernhard, Muelheim-Kaerlich","name":"Bernhard","city":"Muelheim-Kaerlich","dept":"56218","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653001","callsign":"GERAU01","fname":"Peter, Gross-Gerau","name":"Peter","city":"Gross-Gerau","dept":"64521","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653002","callsign":"13HN1276","fname":"Juergen, Montabaur","name":"Juergen","city":"Montabaur","dept":"56410","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653003","callsign":"EGGE01","fname":"Daniel, Nieheim","name":"Daniel","city":"Nieheim","dept":"33039","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
