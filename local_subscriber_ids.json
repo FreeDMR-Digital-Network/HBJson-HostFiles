@@ -1,4 +1,4 @@
-{"count": 5741,"results": [
+{"count": 5742,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5075,6 +5075,7 @@
 {"id":"2102015","callsign":"LASPEZIA79","fname":"Maurizio, Veltheim - AG","name":"Maurizio","land":"228","city":"5106 Veltheim","state":"228","country":"Switzerland","remarks":"FreeDMR Digital"},
 {"id":"2104500","callsign":"HBSAX64","fname":"Erhard, Bern","name":"Erhard","city":"Bern","land":"228","state":"Bern","country":"Switzerland","remarks":"FreeDMR Digital"},
 {"id":"2161111","callsign":"HSZENTES","fname":"DMR-Repeater Hungary","name":"DMR-Repeater Hungary","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2168001","callsign":"CSZOLI","fname":"Zoli, Szentes","name":"Zoli","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168022","callsign":"HA8BKG","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2281238","callsign":"CH22PH","fname":"Passah","name":"Passah","city":"Switzerland","land":"228","state":"228","country":"Switzerland","remarks":"FRDMR"},
 {"id":"2312059","callsign":"FRS2312","fname":"Freddy","name":"Freddy","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"7360DMR"},
