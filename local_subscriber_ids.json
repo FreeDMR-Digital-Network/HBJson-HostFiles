@@ -1,4 +1,4 @@
-{"count": 5744,"results": [
+{"count": 5745,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5151,6 +5151,7 @@
 {"id":"2652004","callsign":"COBRA08","fname":"Axel, Murg","name":"Axel","city":"Murg","dept":"79730","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652005","callsign":"DO1F13","fname":"Frank, Albbruck","name":"Frank","city":"Albbruck","dept":"79774","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652006","callsign":"RECEP","fname":"Kray, Muenchen","name":"Kray","city":"Muenchen","dept":"80335","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652007","callsign":"13DBF57","fname":"Jochen, Wallduern","name":"Jochen","city":"Wallduern","dept":"74731","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652010","callsign":"13MZ75","fname":"Mario, Herrngiersdorf","name":"Mario","city":"Herrngiersdorf","dept":"84097","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652011","callsign":"DAVE","fname":"Dave, Nuernberg","name":"Dave","city":"Nuernberg","dept":"90411","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652012","callsign":"CB0FRG","fname":"Andreas, Freyung","name":"Andreas","city":"Freyung","dept":"94078","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
