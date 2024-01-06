@@ -1,4 +1,4 @@
-{"count": 5751,"results": [
+{"count": 5752,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5076,6 +5076,7 @@
 {"id":"2104500","callsign":"HBSAX64","fname":"Erhard, Bern","name":"Erhard","city":"Bern","land":"228","state":"Bern","country":"Switzerland","remarks":"FreeDMR Digital"},
 {"id":"2161111","callsign":"HSZENTES","fname":"DMR-Repeater Hungary","name":"DMR-Repeater Hungary","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161112","callsign":"DVSHUN","fname":"DVSHUN, Szentes","name":"DVSWITCH","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2161113","callsign":"HZELLO","fname":"HZELLO, Szentes","name":"ZelloLink","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2167001","callsign":"638-GYURI","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2167111", "callsign":"HATVAN","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168000","callsign":"93S-KARCSI","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
@@ -5289,7 +5290,7 @@
 {"id":"2654562","callsign":"13OT1871","fname":"Christian, Kleinmachnow","name":"Christian","city":"Kleinmachnow","dept":"14532","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654565","callsign":"AJ1","fname":"Andreas, Regis-Breitingen","name":"Andreas","city":"Regis-Breitingen","dept":"04565","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654790","callsign":"U96","fname":"Dennis, Bad Lausick","name":"Dennis","city":"Bad Lausick","dept":"04651","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2654910","callsign":"OLDYANKEE","fname":"Michael, Sondershausen","name":"Michael","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654910","callsign":"13OY910","fname":"Michael, Jechaburg","name":"Michael","city":"Jechaburg","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654964","callsign":"13TH1964","fname":"Maik, Bad Frankenhausen","name":"Maik","city":"Bad Frankenhausen","dept":"06567","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654977","callsign":"13HN640","fname":"Silvio, Bruenn","name":"Silvio","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654991","callsign":"FUNKLEITZENTRUM","fname":"Ralf, Dingelstaedt","name":"Ralf","city":"Dingelstaedt","dept":"37351","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
