@@ -5078,7 +5078,8 @@
 {"id":"2161112","callsign":"DVSHUN","fname":"DVSHUN, Szentes","name":"DVSWITCH","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161113","callsign":"HZELLO","fname":"HZELLO, Szentes","name":"ZelloLink","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2167001","callsign":"638-GYURI","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
-{"id":"2167111", "callsign":"HATVAN","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2167033","callsign":"HA7WDD","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2167111","callsign":"HATVAN","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168000","callsign":"93S-KARCSI","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168001","callsign":"CSZOLI","fname":"Zoli, Szentes","name":"Zoli","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168022","callsign":"HA8BKG","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
@@ -5748,6 +5749,5 @@
 {"id":"9994100","callsign":"FR94DD","fname":"Didier","name":"Didier","city":"Val-de-Marne","dept":"","land":"208","state":"94","country":"France","remarks":"THESHIELD"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"9999999","callsign":"TEST-ID","fname":"Test-ID","name":"Test-ID","city":"WorldWide","dept":"22417","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"}
-
 ]
 }
