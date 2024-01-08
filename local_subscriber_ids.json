@@ -1,4 +1,4 @@
-{"count": 5753,"results": [
+{"count": 5756,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5074,6 +5074,7 @@
 {"id":"2089527","callsign":"FRS2921","fname":"Francois","name":"Francois","city":"Berck","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"2102015","callsign":"LASPEZIA79","fname":"Maurizio, Veltheim - AG","name":"Maurizio","land":"228","city":"5106 Veltheim","state":"228","country":"Switzerland","remarks":"FreeDMR Digital"},
 {"id":"2104500","callsign":"HBSAX64","fname":"Erhard, Bern","name":"Erhard","city":"Bern","land":"228","state":"Bern","country":"Switzerland","remarks":"FreeDMR Digital"},
+{"id":"2160063","callsign":"HA8FP","fname":"Jozsef, Szeged","name":"Jozsi","city":"Szeged","dept":"6700","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161111","callsign":"HSZENTES","fname":"DMR-Repeater Hungary","name":"DMR-Repeater Hungary","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161112","callsign":"DVSHUN","fname":"DVSHUN, Szentes","name":"DVSWITCH","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161113","callsign":"HZELLO","fname":"HZELLO, Szentes","name":"ZelloLink","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
@@ -5137,6 +5138,7 @@
 {"id":"2651701","callsign":"BA0FENG","fname":"Leo, Bremen Kattenturm","name":"Leo","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651702","callsign":"DINA01","fname":"Irmgard, Bremen Kattenturm","name":"Irmgard","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651703","callsign":"13HN480","fname":"Guenther, Bremen Kattenturm","name":"Guenther","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651707","callsign":"13DT561","fname":"Chris, Stralsund","name":"Chris","city":"Stralsund","dept":"18439","land":"7","state":"Mecklenburg-Vorpommern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651717","callsign":"13LU17","fname":"Paul, Hildesheim","name":"Paul","city":"Hildesheim","dept":"31134","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651720","callsign":"MAN","fname":"Thorsten, Delmenhorst Schoenemoor","name":"Thorsten","city":"Delmenhorst Schoenemoor","dept":"27777","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651747","callsign":"13DPH207","fname":"Udo, Schellerten","name":"Udo","city":"Schellerten","dept":"31174","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5177,6 +5179,7 @@
 {"id":"2652024","callsign":"13RF878","fname":"Heinrich, Kersbach","name":"Heinrich","city":"Kersbach","dept":"91233","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652025","callsign":"HOTEL LIMA","fname":"Hansi, Wartmannsroth","name":"Hansi","city":"Wartmannsroth","dept":"97797","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652026","callsign":"13RF188","fname":"Seddi, Bubenreuth","name":"Seddi","city":"Bubenreuth","dept":"91088","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652027","callsign":"13CT866","fname":"Andreas, Bad Reichenhall","name":"Andreas","city":"Bad Reichenhall","dept":"83435","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652035","callsign":"EREMIT","fname":"Ralph, Veitsbronn","name":"Ralph","city":"Veitsbronn","dept":"90587","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652100","callsign":"JD02","fname":"Thomas, Oberstdorf","name":"Thomas","city":"Oberstdorf","dept":"87561","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
