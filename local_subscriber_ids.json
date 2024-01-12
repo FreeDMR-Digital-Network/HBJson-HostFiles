@@ -1,4 +1,4 @@
-{"count": 5759,"results": [
+{"count": 5760,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5102,6 +5102,7 @@
 {"id":"2651011","callsign":"DE13MS","fname":"Axel, Isernhagen","name":"Axel","city":"Isernhagen","dept":"30916","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651012","callsign":"13HN306","fname":"Andreas, Hannover","name":"Andreas","city":"Hannover","dept":"30629","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651013","callsign":"13EK174","fname":"Patrick, Hemmingen","name":"Patrick","city":"Hemmingen","dept":"30966","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651014","callsign":"DP1NMS","fname":"Dieter, Neumuenster","name":"Dieter","city":"Neumuenster","dept":"24563","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651021","callsign":"DAX021","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651100","callsign":"HUNTE1","fname":"Christian, Oldenburg","name":"Christian","city":"Oldenburg","dept":"26131","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651101","callsign":"SHORTY71","fname":"Jockel, Oldenburg Brettorf","name":"Jockel","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
