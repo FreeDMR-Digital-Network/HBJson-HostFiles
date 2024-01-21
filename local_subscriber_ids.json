@@ -1,4 +1,4 @@
-{"count": 5773,"results": [
+{"count": 5779,"results": [
 {"id":"1000270","callsign":"AR2OMCI","fname":"Analog-Reflector2 FreeDMR Ireland","name":"Analog-Reflector2","city":"Bundoran","dept":"","land":"272","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000271","callsign":"29CT067","fname":"OMCI2, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","dept":"","land":"272","state":"Donegal","country":"Ireland","remarks":"FREEDMR.IRELAND"},
@@ -5105,7 +5105,7 @@
 {"id":"2651014","callsign":"DP1NMS","fname":"Dieter, Neumuenster","name":"Dieter","city":"Neumuenster","dept":"24563","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651015","callsign":"BLUEDOG","fname":"Simon, Oldenburg","name":"Simon","city":"Oldenburg","dept":"26131","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651016","callsign":"ALF1957","fname":"Ralf, Hamburg","name":"Ralf","city":"Hamburg","dept":"22047","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2651017","callsign":"13LE011","fname":"Lukas, Soltendiek","name":"Lukas","city":"Soltendiek","dept":"29594","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651017","callsign":"13LE011","fname":"Lukas, Soltendieck","name":"Lukas","city":"Soltendieck","dept":"29594","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651021","callsign":"DAX021","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651100","callsign":"HUNTE1","fname":"Christian, Oldenburg","name":"Christian","city":"Oldenburg","dept":"26131","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651101","callsign":"SHORTY71","fname":"Jockel, Oldenburg Brettorf","name":"Jockel","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5156,8 +5156,9 @@
 {"id":"2651903","callsign":"NOBODY","fname":"Kim, Osterholz-Scharmbeck","name":"Kim","city":"Osterholz-Scharmbeck","dept":"27711","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651904","callsign":"DR3HBF","fname":"Ronny, Bremen","name":"Ronny","city":"Bremen","dept":"28215","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651905","callsign":"CB37OHZ","fname":"Sven, Osterholz-Scharmbeck","name":"Sven","city":"Osterholz-Scharmbeck","dept":"27711","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651973","callsign":"13CH04","fname":"Carsten, Soltendieck","name":"Carsten","city":"Soltendieck","dept":"29594","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651948","callsign":"13ABZ48","fname":"Peter, Peine","name":"Peter","city":"Peine","dept":"31224","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2651955","callsign":"13ME011","fname":"Matthias, Soltendiek","name":"Matthias","city":"Soltendiek","dept":"29594","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651955","callsign":"13ME011","fname":"Matthias, Soltendieck","name":"Matthias","city":"Soltendieck","dept":"29594","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651988","callsign":"FR3FMA","fname":"Mirko, Varel","name":"Mirko","city":"Varel","dept":"26316","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651990","callsign":"WH3CBA","fname":"Benny, Wilhelmshaven","name":"Benny","city":"Wilhelmshaven","dept":"26382","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651998","callsign":"13BE998","fname":"Thomas, Hildesheim","name":"Thomas","city":"Hildesheim","dept":"31134","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5186,6 +5187,7 @@
 {"id":"2652025","callsign":"HOTELLIMA","fname":"Hansi, Wartmannsroth","name":"Hansi","city":"Wartmannsroth","dept":"97797","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652026","callsign":"13RF188","fname":"Seddi, Bubenreuth","name":"Seddi","city":"Bubenreuth","dept":"91088","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652027","callsign":"13CT866","fname":"Andreas, Bad Reichenhall","name":"Andreas","city":"Bad Reichenhall","dept":"83435","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652028","callsign":"DN7MG","fname":"Peter, Kirchenlamitz","name":"Peter","city":"Kirchenlamitz","dept":"95158","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652035","callsign":"EREMIT","fname":"Ralph, Veitsbronn","name":"Ralph","city":"Veitsbronn","dept":"90587","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652100","callsign":"JD02","fname":"Thomas, Oberstdorf","name":"Thomas","city":"Oberstdorf","dept":"87561","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
