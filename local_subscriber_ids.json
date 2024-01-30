@@ -5399,7 +5399,7 @@
 {"id":"2655013","callsign":"ZELLO","fname":"Zello FreeDMR Digital","name":"Zello","city":"FreeDMR Digital","dept":"","land":"","state":"FreeDMR Digital","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655014","callsign":"RL2HB","fname":"Crosslink Bremem City","name":"Crosslink Bremen City","city":"Bremen","dept":"28195","land":"","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655015","callsign":"TXRXDE","fname":"Crosslink TX-RX.DE","name":"Crosslink TX-RX.DE","city":"Halle - Saale","dept":"06132","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2655016","callsign":"RL1GT","fname":"Relais Bergholzhausen","name":"Relais Bergholzhausen","city":"Bremen Kattenturm","dept":"33829","land":"","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655016","callsign":"RL1GT","fname":"Relais Borgholzhausen","name":"Relais Borgholzhausen","city":"Borgholzhausen","dept":"33829","land":"","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2712978","callsign":"FR38WIZ","fname":"Nicolas","name":"Nicolas","city":"Isere","dept":"","land":"208","state":"38","country":"France","remarks":"THESHIELD"},
 {"id":"2909740","callsign":"FRS9740","fname":"Nicolas","name":"Nicolas","city":"Lannilis","dept":"","land":"208","state":"29","country":"France","remarks":"FRS"},
 {"id":"3020000","callsign":"BOBFLOOF","fname":"Philippe, Quebec","name":"Philippe","city":"Quebec","dept":"","land":"302","state":"302","country":"Canada","remarks":"FreeDMR Digital"},
