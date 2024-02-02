@@ -1,4 +1,4 @@
-{"count": 5793,"results": [
+{"count": 5796,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44001","callsign":"RELAIS44","fname":"44DMR","name":"44DMR","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5135,6 +5135,8 @@
 {"id":"2169000","callsign":"HA8BKG","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169001","callsign":"638GYURI","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169003","callsign":"PEPE","fname":"Tibi, Szolnok-Szandaszolos","name":"Tibor","city":"Szolnok","dept":"5000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2169005","callsign":"HB500","fname":"Budapest","name":"Hotspot GD-77","city":"Budapest","dept":"1055","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"}, 
+{"id":"2169006","callsign":"6OSTIBI","fname":"Budapest","name":"Tibor","city":"Budapest","dept":"1055","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"}, 
 {"id":"2169100","callsign":"HATVAN","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater Szentes","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169151","callsign":"ISTVAN","fname":"Pisti, Albertirsa","name":"Istvan","city":"Albertirsa","dept":"2730","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2281238","callsign":"CH22PH","fname":"Passah","name":"Passah","city":"Switzerland","land":"228","state":"228","country":"Switzerland","remarks":"FRDMR"},
@@ -5160,7 +5162,6 @@
 {"id":"2651017","callsign":"13LE011","fname":"Lukas, Soltendieck","name":"Lukas","city":"Soltendieck","dept":"29594","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651018","callsign":"HP01","fname":"Dennis, Melle","name":"Dennis","city":"Melle","dept":"49362","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651021","callsign":"DAX021","fname":"Horst, Hameln","name":"Horst","city":"Hameln","dept":"31785","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2651999","callsign":"13HN1999","fname":"Marco, Bremen","name":"Marco","city":"Bremen","dept":"28309","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651100","callsign":"HUNTE1","fname":"Christian, Oldenburg","name":"Christian","city":"Oldenburg","dept":"26131","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651101","callsign":"SHORTY71","fname":"Jockel, Oldenburg Brettorf","name":"Jockel","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651102","callsign":"SHORTY71","fname":"Jockel, Oldenburg Brettorf","name":"Jockel","city":"Oldenburg Brettorf","dept":"27801","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5217,6 +5218,7 @@
 {"id":"2651988","callsign":"FR3FMA","fname":"Mirko, Varel","name":"Mirko","city":"Varel","dept":"26316","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651990","callsign":"WH3CBA","fname":"Benny, Wilhelmshaven","name":"Benny","city":"Wilhelmshaven","dept":"26382","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651998","callsign":"13BE998","fname":"Thomas, Hildesheim","name":"Thomas","city":"Hildesheim","dept":"31134","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651999","callsign":"13HN1999","fname":"Marco, Bremen","name":"Marco","city":"Bremen","dept":"28309","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652000","callsign":"13RF831","fname":"Emanuel, Bamberg","name":"Emanuel","city":"Bamberg","dept":"96052","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652001","callsign":"OM1NET","fname":"Oli, Remseck","name":"Oli","city":"Remseck","dept":"71686","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652002","callsign":"POLYKA1","fname":"Vince, Mannheim","name":"Vince","city":"Mannheim","dept":"68169","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5247,6 +5249,7 @@
 {"id":"2652028","callsign":"DN7MG","fname":"Peter, Kirchenlamitz","name":"Peter","city":"Kirchenlamitz","dept":"95158","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652035","callsign":"EREMIT","fname":"Ralph, Veitsbronn","name":"Ralph","city":"Veitsbronn","dept":"90587","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652091","callsign":"13RW01","fname":"Roland, Pegnitz","name":"Roland","city":"Pegnitz","dept":"91257","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652100","callsign":"JD02","fname":"Thomas, Oberstdorf","name":"Thomas","city":"Oberstdorf","dept":"87561","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652110","callsign":"TIER1","fname":"Leistelle, Tierhilfe Schwarzwald-Baar","name":"Leitstelle","city":"Schwarzwald-Baar","dept":"78112","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652112","callsign":"TIER2","fname":"Einsatzleitung, Tierhilfe Schwarzwald-Baar","name":"Einsatzleitung","city":"Schwarzwald-Baar","dept":"78112","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
