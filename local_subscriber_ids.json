@@ -1,4 +1,4 @@
-{"count": 5796,"results": [
+{"count": 5797,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44001","callsign":"RELAIS44","fname":"44DMR","name":"44DMR","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5183,6 +5183,7 @@
 {"id":"2651222","callsign":"13KB22","fname":"Barbara, Hamburg","name":"Barbara","city":"Hamburg","dept":"22417","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651280","callsign":"INDIAGOLF","fname":"Ingo, Gettorf","name":"Ingo","city":"Gettorf","dept":"24214","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651313","callsign":"13HN313","fname":"Tim, Obershagen","name":"Tim","city":"Obershagen","dept":"31311","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651315","callsign":"BB7XY","fname":"Bernd, Sandesneben","name":"Bernd","city":"Sandesneben","dept":"23898","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651333","callsign":"BAKE262","fname":"Info-Bake FreeDMR Digital","name":"Info-Bake FreeDMR Digital","city":"Germany","dept":"22417","state":"Germany","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651388","callsign":"BROKER88","fname":"Andy, Vielank","name":"Andy","city":"Vielank","dept":"19303","land":"7","state":"Mecklenburg-Vorpommern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651410","callsign":"13DG80","fname":"Dierk, Peine","name":"Dierk","city":"Peine","dept":"31228","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5323,7 +5324,7 @@
 {"id":"2653187","callsign":"FALKE1","fname":"Fabian, Remscheid","name":"Fabian","city":"Remscheid","dept":"42857","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653190","callsign":"D06FTH","fname":"Tobi, Rodenbach","name":"Tobi","city":"Rodenbach","dept":"63517","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653200","callsign":"STH2707","fname":"Sven, Bosen-Eckelhausen","name":"Sven","city":"Bosen-Eckelhausen","dept":"66625","land":"11","state":"Saarland","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2653226","callsign":"D5JN","fname":"Eddi, Meerbusch","name":"Eddi","city":"Meerbusch","dept":"40668","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653226","callsign":"13HN7338","fname":"Eddi, Meerbusch","name":"Eddi","city":"Meerbusch","dept":"40668","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653299","callsign":"INTRUDER61","fname":"Josef, Eschweiler","name":"Josef","city":"Eschweiler","dept":"52249","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653399","callsign":"13DH9","fname":"Udo, Verl","name":"Udo","city":"Verl","dept":"33415","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653470","callsign":"JJ_COOL_J","fname":"Jakob, Muelheim","name":"Jakob","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
