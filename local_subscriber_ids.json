@@ -5796,6 +5796,10 @@
 {"id":"9974004","callsign":"FR974LA","fname":"Luciano","name":"Luciano","city":"La Reunion","dept":"","land":"208","state":"974","country":"France","remarks":"FRDMR"},
 {"id":"9974005","callsign":"FR974BF","fname":"Bryan","name":"Bryan","city":"La Reunion","dept":"","land":"208","state":"974","country":"France","remarks":"FRDMR"},
 {"id":"9994100","callsign":"FR94DD","fname":"Didier","name":"Didier","city":"Val-de-Marne","dept":"","land":"208","state":"94","country":"France","remarks":"THESHIELD"},
-{"id":"9999999","callsign":"TEST-ID","fname":"Test-ID","name":"Test-ID","city":"WorldWide","dept":"22417","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"}
+{"id":"9999995","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
+{"id":"9999996","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
+{"id":"9999997","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
+{"id":"9999998","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
+{"id":"9999999","callsign":"TEST-ID","fname":"Test-ID Image","name":"Test-ID Image","city":"WorldWide","dept":"22417","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"}
 ]
 }
