@@ -1,4 +1,4 @@
-{"count": 5798,"results": [
+{"count": 5806,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44001","callsign":"RELAIS44","fname":"44DMR","name":"44DMR","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5127,8 +5127,9 @@
 {"id":"2087099","callsign":"FS11Y1","fname":"Yannick","name":"Yannick","city":"","dept":"","land":"208","state":"","country":"France","remarks":""},
 {"id":"2089409","callsign":"14PS62","fname":"Philippe","name":"Philippe","city":"Lens","dept":"","land":"208","state":"62","country":"France","remarks":""},
 {"id":"2089527","callsign":"FRS2921","fname":"Francois","name":"Francois","city":"Berck","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
-{"id":"2102015","callsign":"LASPEZIA79","fname":"Maurizio, Veltheim - AG","name":"Maurizio","land":"228","city":"5106 Veltheim","state":"228","country":"Switzerland","remarks":"FreeDMR Digital"},
-{"id":"2104500","callsign":"HBSAX64","fname":"Erhard, Bern","name":"Erhard","city":"Bern","land":"228","state":"Bern","country":"Switzerland","remarks":"FreeDMR Digital"},
+{"id":"2102015","callsign":"LASPEZIA79","fname":"Maurizio, Veltheim - AG","name":"Maurizio","dept":"","land":"228","city":"5106 Veltheim","state":"228","country":"Switzerland","remarks":"FreeDMR Digital"},
+{"id":"2104500","callsign":"HBSAX64","fname":"Erhard, Bern","name":"Erhard","city":"Bern","dept":"","land":"228","state":"Bern","country":"Switzerland","remarks":"FreeDMR Digital"},
+{"id":"2149500","callsign":"13DB03","fname":"Gerhard, Calpe","name":"Gerhard","city":"Calpe","dept":"03710","land":"214","state":"Valencia","country":"Spain","remarks":"FreeDMR Digital"},
 {"id":"2161111","callsign":"HSZENTES","fname":"DMR-Repeater Hungary","name":"DMR-Repeater Hungary","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161112","callsign":"DVSHUN","fname":"DVSHUN, Szentes","name":"DVSwitch","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161113","callsign":"HZELLO","fname":"HZELLO, Szentes","name":"ZelloLink","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
@@ -5304,7 +5305,7 @@
 {"id":"2653037","callsign":"HS1HB","fname":"Holm, Uebach-Palenberg","name":"Holm","city":"Uebach-Palenberg","dept":"52531","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653038","callsign":"DE45OP","fname":"Oliver, Gelsenkirchen","name":"Oliver","city":"Gelsenkirchen","dept":"45899","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653039","callsign":"13RF2709","fname":"Uwe, Luedenscheid","name":"Uwe","city":"Luedenscheid","dept":"58509","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2653040","callsign":"DM9DMF","fname":"Marcel, Hüllhorst","name":"Marcel","city":"Hüllhorst","dept":"32609","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653040","callsign":"DM9DMF","fname":"Marcel, Huellhorst","name":"Marcel","city":"Huellhorst","dept":"32609","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653041","callsign":"AF53506","fname":"Andreas, Kesseling","name":"Andreas","city":"Kesseling","dept":"53506","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653042","callsign":"EGGE02","fname":"Tim, Nieheim","name":"Tim","city":"Nieheim","dept":"33039","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653043","callsign":"OTTSCHO74","fname":"Stefan, Braunfels","name":"Stefan","city":"Braunfels","dept":"35619","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
