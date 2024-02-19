@@ -5418,6 +5418,7 @@
 {"id":"2655015","callsign":"TXRXDE","fname":"Crosslink TX-RX.DE","name":"Crosslink TX-RX.DE","city":"Halle - Saale","dept":"06132","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655016","callsign":"RL1GT","fname":"Relais Borgholzhausen","name":"Relais Borgholzhausen","city":"Borgholzhausen","dept":"33829","land":"","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655017","callsign":"RL0RHN","fname":"Crosslink Kissinger Huette","name":"Crosslink Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655018","callsign":"RL0RHN","fname":"Relais Kissinger Huette","name":"Relais Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655995","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
 {"id":"2655996","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
 {"id":"2655997","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
