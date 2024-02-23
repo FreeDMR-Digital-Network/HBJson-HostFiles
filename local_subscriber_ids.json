@@ -5139,7 +5139,7 @@
 {"id":"2169001","callsign":"638GYURI","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169003","callsign":"PEPE","fname":"Tibi, Szolnok-Szandaszolos","name":"Tibor","city":"Szolnok","dept":"5000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169005","callsign":"HB500","fname":"Budapest","name":"Hotspot GD-77","city":"Budapest","dept":"1055","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"}, 
-{"id":"2169006","callsign":"6OSTIBI","fname":"Budapest","name":"Tibor","city":"Budapest","dept":"1055","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"}, 
+{"id":"2169006","callsign":"6OSTIBI","fname":"Tibor, Budapest","name":"Tibor","city":"Budapest","dept":"1055","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"}, 
 {"id":"2169020","callsign":"ALBIRS2","fname":"DMR-Hotspot FreeDMR Hungary","name":"ALBIRS2","city":"Albertirsa","dept":"2730","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169100","callsign":"HATVAN","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater Szentes","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169151","callsign":"ISTVAN","fname":"Pisti, Albertirsa","name":"Istvan","city":"Albertirsa","dept":"2730","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
