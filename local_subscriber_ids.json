@@ -1,4 +1,4 @@
-{"count": 5826,"results": [
+{"count": 5827,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44001","callsign":"RELAIS44","fname":"44DMR","name":"44DMR","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5273,6 +5273,7 @@
 {"id":"2652158","callsign":"13OP25","fname":"Jochen, Muehlacker","name":"Jochen","city":"Muehlacker","dept":"75417","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652222","callsign":"DE0BEN","fname":"Ben, Muenchen","name":"Ben","city":"Muenchen","dept":"80937","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652700","callsign":"13HN267","fname":"Wolfgang, Neu-Anspach","name":"Wolfgang","city":"Neu-Anspach","dept":"61267","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652756","callsign":"13RD07","fname":"Robert, Bernried","name":"Robert","city":"Bernried","dept":"94505","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652793","callsign":"CB93","fname":"Clemens, Sonthofen","name":"Clemens","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652814","callsign":"13AS25","fname":"Andreas, Hof","name":"Andreas","city":"Hof","dept":"95028","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652852","callsign":"13RF852","fname":"Felix, Augsburg","name":"Felix","city":"Augsburg","dept":"86157","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
