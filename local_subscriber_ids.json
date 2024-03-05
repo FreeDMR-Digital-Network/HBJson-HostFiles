@@ -4830,6 +4830,7 @@
 {"id":"1401002","callsign":"FS01G1","fname":"Gaston","name":"Gaston","city":"Ain","dept":"","land":"208","state":"1","country":"France","remarks":"THESHIELD"},
 {"id":"1401853","callsign":"FRS1853","fname":"Laurent","name":"Laurent","city":"Anet","dept":"","land":"208","state":"28","country":"France","remarks":"FRS"},
 {"id":"1402013","callsign":"FRS2013","fname":"Xavier","name":"Xavier","city":"Antibes","dept":"","land":"208","state":"06","country":"France","remarks":"FRS"},
+{"id":"1402100","callsign":"PAT821","fname":"Robert","name":"Robert","city":"Cote-d'Or","state":"21","country":"France","remarks":"FRDMR"}, 
 {"id":"1402268","callsign":"FS08C1","fname":"Christophe","name":"Christophe","city":"Ardennes","dept":"","land":"208","state":"8","country":"France","remarks":"FreeDMR DMR75"}, 
 {"id":"1402686","callsign":"FRS2686","fname":"Gilles","name":"Gilles","city":"Saint-Yrieix-la-Perche","dept":"","land":"208","state":"87","country":"France","remarks":"FRS"},
 {"id":"1402961","callsign":"FRS2961","fname":"Joric","name":"Joric","city":"Nice","dept":"","land":"208","state":"06","country":"France","remarks":"FRS"},
