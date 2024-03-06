@@ -5219,6 +5219,7 @@
 {"id":"2652011","callsign":"DAVE","fname":"Dave, Nuernberg","name":"Dave","city":"Nuernberg","dept":"90411","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652012","callsign":"CB0FRG","fname":"Andreas, Freyung","name":"Andreas","city":"Freyung","dept":"94078","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652013","callsign":"13PD10","fname":"Paul, Woelbattendorf","name":"Paul","city":"Woelbattendorf","dept":"95030","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652014","callsign":"DMS290","fname":"Juergen, Roedelsee","name":"Juergen","city":"Roedelsee","dept":"97348","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652015","callsign":"13GB75","fname":"Gerd, Schoellnach","name":"Gerd","city":"Schoellnach","dept":"94508","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652016","callsign":"USI01","fname":"Rainer, Usingen","name":"Rainer","city":"Usingen","dept":"61250","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652017","callsign":"13HH676","fname":"Marcel, Mannheim","name":"Marcel","city":"Mannheim","dept":"68159","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
