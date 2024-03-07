@@ -1,4 +1,4 @@
-{"count": 5797,"results": [
+{"count": 5802,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44371","callsign":"44DRM","fname":"Philippe","name":"Philippe","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5234,6 +5234,7 @@
 {"id":"2652026","callsign":"13RF188","fname":"Seddi, Bubenreuth","name":"Seddi","city":"Bubenreuth","dept":"91088","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652027","callsign":"13CT866","fname":"Andreas, Bad Reichenhall","name":"Andreas","city":"Bad Reichenhall","dept":"83435","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652028","callsign":"DN7MG","fname":"Peter, Kirchenlamitz","name":"Peter","city":"Kirchenlamitz","dept":"95158","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2652029","callsign":"13RF788","fname":"Steffen, Wildberg","name":"Steffen","city":"Wildberg","dept":"72218","land":"0","state":"Baden-Wuerttemberg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652035","callsign":"EREMIT","fname":"Ralph, Veitsbronn","name":"Ralph","city":"Veitsbronn","dept":"90587","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652044","callsign":"TJ44","fname":"Markus, Sonthofen","name":"Markus","city":"Sonthofen","dept":"87527","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2652091","callsign":"13RW09","fname":"Roland, Pegnitz","name":"Roland","city":"Pegnitz","dept":"91257","land":"1","state":"Bayern","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5361,6 +5362,7 @@
 {"id":"2654019","callsign":"13MHBER1","fname":"Mark, Berlin","name":"Mark","city":"Berlin","dept":"10305","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654020","callsign":"DE2TRF","fname":"Torsten, Falkenstein","name":"Torsten","city":"Falkenstein","dept":"08223","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654021","callsign":"13RF441","fname":"Sven, Straupitz","name":"Sven","city":"Straupitz","dept":"15913","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654022","callsign":"BANDIT","fname":"Nico, Langewahl","name":"Nico","city":"Langewahl","dept":"15518","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654026","callsign":"MICKYMAUS","fname":"Carmen, Leipzig","name":"Carmen","city":"Leipzig","dept":"04329","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654047","callsign":"13HN2047","fname":"Daniel, Ebeleben","name":"Daniel","city":"Ebeleben","dept":"99713","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654051","callsign":"BETA13","fname":"Lars, Berlin","name":"Lars","city":"Berlin","dept":"13051","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5445,6 +5447,7 @@
 {"id":"5923000","callsign":"F59178N","fname":"Relais Hasnon","name":"Relais Hasnon","city":"","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"5959000","callsign":"F59DMR","fname":"F59DMR","name":"F59DMR","city":"","dept":"","land":"208","state":"","country":"France","remarks":"F59DMR"},
 {"id":"5959077","callsign":"FRS077","fname":"Romuald","name":"Romuald","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
+{"id":"5962621","callsign":"REF62","fname":"Analog-Reflector","name":"Analog-Reflector","city":"Nord","dept":"","land":"208","state":"62","country":"France","remarks":"FreeDMR F62DMR"}, 
 {"id":"5959480","callsign":"FRS3494","fname":"David","name":"David","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
 {"id":"5959666","callsign":"FRS2581","fname":"Steven","name":"Steven","city":"Dechy","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"5962840","callsign":"ADIXIA","fname":"Balise Du Nord","name":"Balise Du Nord","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
