@@ -5366,6 +5366,7 @@
 {"id":"2654020","callsign":"DE2TRF","fname":"Torsten, Falkenstein","name":"Torsten","city":"Falkenstein","dept":"08223","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654021","callsign":"13RF441","fname":"Sven, Straupitz","name":"Sven","city":"Straupitz","dept":"15913","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654022","callsign":"BANDIT","fname":"Nico, Langewahl","name":"Nico","city":"Langewahl","dept":"15518","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654023","callsign":"13RC997","fname":"Hartmut, Buergel","name":"Hartmut","city":"Buergel","dept":"07616","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654026","callsign":"MICKYMAUS","fname":"Carmen, Leipzig","name":"Carmen","city":"Leipzig","dept":"04329","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654047","callsign":"13HN2047","fname":"Daniel, Ebeleben","name":"Daniel","city":"Ebeleben","dept":"99713","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654051","callsign":"BETA13","fname":"Lars, Berlin","name":"Lars","city":"Berlin","dept":"13051","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
