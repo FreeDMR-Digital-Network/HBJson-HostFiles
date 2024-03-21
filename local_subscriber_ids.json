@@ -1,4 +1,4 @@
-{"count": 5811,"results": [
+{"count": 5812,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44371","callsign":"44DRM","fname":"Philippe","name":"Philippe","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5375,7 +5375,7 @@
 {"id":"2654051","callsign":"BETA13","fname":"Lars, Berlin","name":"Lars","city":"Berlin","dept":"13051","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654103","callsign":"BEBRA3","fname":"Marcel, Sondershausen","name":"Marcel","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654109","callsign":"13RF895","fname":"Tom, Berlin","name":"Tom","city":"Berlin","dept":"12109","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2654110","callsign":"FUERST","fname":"Lars, Fuerstenwalde - Spree","name":"Lars","city":"Fuerstenwalde","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654110","callsign":"FUERST","fname":"Lars, Fuerstenwalde","name":"Lars","city":"Fuerstenwalde","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654111","callsign":"13OT4664","fname":"Norbert, Berlin","name":"Norbert","city":"Berlin","dept":"12109","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654112","callsign":"TEDDYBAER","fname":"Frank, Allmenhausen","name":"Frank","city":"Allmenhausen","dept":"99713","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654120","callsign":"FUERSTIN","fname":"Nicole, Fuerstenwalde","name":"Nicole","city":"Fuerstenwalde","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5383,6 +5383,7 @@
 {"id":"2654265","callsign":"HYPER","fname":"Johannes, Zerbst","name":"Johannes","city":"Zerbst","dept":"39261","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654322","callsign":"JW1HAL","fname":"Jan, Halle - Saale","name":"Jan","city":"Halle","dept":"06132","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654333","callsign":"MARLIN","fname":"Marc, Hohen Neuendorf","name":"Marc","city":"Hohen Neuendorf","dept":"16556","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654467","callsign":"PEGASUS","fname":"Rene, Fuerstenwalde","name":"Rene","city":"Fuerstenwalde","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654476","callsign":"DAC476","fname":"Siegmar, Pirna","name":"Siegmar","city":"Pirna","dept":"01796","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654548","callsign":"WOLKE01","fname":"Kata, Bruenn","name":"Kata","city":"Bruenn","dept":"98673","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654562","callsign":"13OT1871","fname":"Christian, Kleinmachnow","name":"Christian","city":"Kleinmachnow","dept":"14532","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5414,8 +5415,8 @@
 {"id":"2655016","callsign":"RL1GT","fname":"Relais Borgholzhausen","name":"Relais Borgholzhausen","city":"Borgholzhausen","dept":"33829","land":"","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655017","callsign":"RL0RHN","fname":"Crosslink Kissinger Huette","name":"Crosslink Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655018","callsign":"RL1RHN","fname":"Relais Kissinger Huette","name":"Relais Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2655130","callsign":"FUEWA1","fname":"Relais Freenet, Fuerstenwalde - Spree","name":"Relais Freenet","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2655140","callsign":"FUEWA2","fname":"Relais PMR446, Fuerstenwalde - Spree","name":"Relais PMR446","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655130","callsign":"FUEWA1","fname":"Relais Freenet Fuerstenwalde","name":"Relais Freenet","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655140","callsign":"FUEWA2","fname":"Relais PMR446 Fuerstenwalde","name":"Relais PMR446","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655995","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
 {"id":"2655996","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
 {"id":"2655997","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
