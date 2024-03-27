@@ -1,4 +1,4 @@
-{"count": 5814,"results": [
+{"count": 5816,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44371","callsign":"44DRM","fname":"Philippe","name":"Philippe","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5313,6 +5313,7 @@
 {"id":"2653055","callsign":"13RF204","fname":"Ulli, Essen","name":"Ulli","city":"Essen","dept":"45141","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653056","callsign":"WT8IF","fname":"Mike, Darmstadt","name":"Mike","city":"Darmstadt","dept":"64285","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653057","callsign":"13RF1206","fname":"Peter, Bad Sassendorf","name":"Peter","city":"Sassendorf","dept":"59505","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653058","callsign":"13RF2003","fname":"Heiko, Saarbruecken","name":"Heiko","city":"Saarbruecken","dept":"66126","land":"11","state":"Saarland","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653077","callsign":"13FB077","fname":"Patrick, Muelheim","name":"Patrick","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653083","callsign":"KUGELFISCH","fname":"Stephanie, Muelheim","name":"Stephanie","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653101","callsign":"BAMBI","fname":"Ria, Emmerich am Rhein","name":"Ria","city":"Emmerich am Rhein","dept":"46446","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5372,6 +5373,7 @@
 {"id":"2654022","callsign":"BANDIT","fname":"Nico, Langewahl","name":"Nico","city":"Langewahl","dept":"15518","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654023","callsign":"13RC997","fname":"Hartmut, Buergel","name":"Hartmut","city":"Buergel","dept":"07616","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654024","callsign":"13MG87","fname":"Martin, Nienburg","name":"Martin","city":"Nienburg","dept":"06429","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654025","callsign":"SCHUETZE","fname":"Anita, Fuerstenwalde","name":"Anita","city":"Fuerstenwalde","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654026","callsign":"MICKYMAUS","fname":"Carmen, Leipzig","name":"Carmen","city":"Leipzig","dept":"04329","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654047","callsign":"13HN2047","fname":"Daniel, Ebeleben","name":"Daniel","city":"Ebeleben","dept":"99713","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654051","callsign":"BETA13","fname":"Lars, Berlin","name":"Lars","city":"Berlin","dept":"13051","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
