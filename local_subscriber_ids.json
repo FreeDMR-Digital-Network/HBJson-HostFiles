@@ -5471,7 +5471,7 @@
 {"id":"5923000","callsign":"F59178N","fname":"Relais Hasnon","name":"Relais Hasnon","city":"","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"5959000","callsign":"F59DMR","fname":"F59DMR","name":"F59DMR","city":"","dept":"","land":"208","state":"","country":"France","remarks":"F59DMR"},
 {"id":"5959077","callsign":"FRS077","fname":"Romuald","name":"Romuald","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
-{"id":"5962621","callsign":"REF62","fname":"Analog-Reflector","name":"Analog-Reflector","city":"Nord","dept":"","land":"208","state":"62","country":"France","remarks":"FreeDMR F62DMR"}, 
+{"id":"5962621","callsign":"REF62","fname":"Analog-Reflector 062","name":"Analog-Reflector 062","city":"Nord","dept":"","land":"208","state":"62","country":"France","remarks":"FreeDMR F62DMR"}, 
 {"id":"5959480","callsign":"FRS3494","fname":"David","name":"David","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
 {"id":"5959666","callsign":"FRS2581","fname":"Steven","name":"Steven","city":"Dechy","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"5962840","callsign":"ADIXIA","fname":"Balise Du Nord","name":"Balise Du Nord","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
