@@ -1,4 +1,4 @@
-{"count": 5824,"results": [
+{"count": 5826,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44371","callsign":"44DRM","fname":"Philippe","name":"Philippe","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5188,6 +5188,7 @@
 {"id":"2651623","callsign":"BAKE2623","fname":"Zeitansage NDS-HB","name":"Zeitansage NDS-HB","city":"Bremen","dept":"27801","state":"Germany","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651628","callsign":"LA0NEA","fname":"Lanea, Aerzen","name":"Lanea","city":"Aerzen","dept":"31855","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651666","callsign":"1313TH","fname":"Torben, Hassmoor","name":"Torben","city":"Hassmoor","dept":"24790","land":"14","state":"Schleswig-Holstein","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2651694","callsign":"13RF694","fname":"Bernd, Wunstorf","name":"Bernd","city":"Wunstorf","dept":"31515","land":"8","state":"Niedersachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651701","callsign":"BA0FENG","fname":"Leo, Bremen Kattenturm","name":"Leo","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651702","callsign":"DINA01","fname":"Irmgard, Bremen Kattenturm","name":"Irmgard","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651703","callsign":"13HN480","fname":"Guenther, Bremen Kattenturm","name":"Guenther","city":"Bremen Kattenturm","dept":"28277","land":"4","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5318,6 +5319,7 @@
 {"id":"2653056","callsign":"WT8IF","fname":"Mike, Darmstadt","name":"Mike","city":"Darmstadt","dept":"64285","land":"6","state":"Hessen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653057","callsign":"13RF1206","fname":"Peter, Bad Sassendorf","name":"Peter","city":"Bad Sassendorf","dept":"59505","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653058","callsign":"13RF2003","fname":"Heiko, Saarbruecken","name":"Heiko","city":"Saarbruecken","dept":"66126","land":"11","state":"Saarland","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2653059","callsign":"FW0SW","fname":"Steffen, Pirmasens","name":"Steffen","city":"Pirmasens","dept":"66955","land":"10","state":"Rheinland-Pfalz","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653077","callsign":"13FB077","fname":"Patrick, Muelheim","name":"Patrick","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653083","callsign":"KUGELFISCH","fname":"Stephanie, Muelheim","name":"Stephanie","city":"Muelheim","dept":"45470","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2653101","callsign":"BAMBI","fname":"Ria, Emmerich am Rhein","name":"Ria","city":"Emmerich am Rhein","dept":"46446","land":"9","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
