@@ -5432,6 +5432,7 @@
 {"id":"2655016","callsign":"RL1GT","fname":"Relais Borgholzhausen","name":"Relais Borgholzhausen","city":"Borgholzhausen","dept":"33829","land":"","state":"Bremen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655017","callsign":"RL0RHN","fname":"Crosslink Kissinger Huette","name":"Crosslink Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655018","callsign":"RL1RHN","fname":"Relais Kissinger Huette","name":"Relais Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2655019","callsign":"XL0DIGI","fname":"Crosslink Auf der N8schicht","name":"Crosslink Auf der N8schicht","city":"Nieheim","dept":"33039","land":"","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655130","callsign":"FUEWA1","fname":"Relais Freenet Fuerstenwalde","name":"Relais Freenet","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655140","callsign":"FUEWA2","fname":"Relais PMR446 Fuerstenwalde","name":"Relais PMR446","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655995","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
