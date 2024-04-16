@@ -5472,6 +5472,7 @@
 {"id":"4553293","callsign":"13XXD84","fname":"Xiaoxia, Shanghai","name":"Xiaoxia","city":"Shanghai","dept":"200001","land":"460","state":"Volksrepublik China","country":"China","remarks":"FreeDMR Digital"},
 {"id":"4553294","callsign":"BY4GRL","fname":"Crosslink Shanghai","name":"Crosslink Shanghai","city":"Shanghai","dept":"200001","land":"460","state":"Volksrepublik China","country":"China","remarks":"FreeDMR Digital"},
 {"id":"5103500","callsign":"FCF","fname":"Reseaux Sidev","name":"Frequence Citoyenne Française","city":"Loire","dept":"","land":"208","state":"59","country":"France","remarks":"FreeDMR F62DMR"},
+{"id":"5103503","callsign":"SIDEV","fname":"Frequence Citoyenne Francaise","name":"Frequence Citoyenne Francaise","city":"Loire","dept":"","land":"208","state":"59","country":"France","remarks":"FreeDMR F62DMR"},
 {"id":"5900130","callsign":"FRS3772","fname":"Stephane","name":"Stephane","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"62DMR"},
 {"id":"5923000","callsign":"F59178N","fname":"Relais Hasnon","name":"Relais Hasnon","city":"","dept":"","land":"208","state":"59","country":"France","remarks":"FRS"},
 {"id":"5959000","callsign":"F59DMR","fname":"F59DMR","name":"F59DMR","city":"","dept":"","land":"208","state":"","country":"France","remarks":"F59DMR"},
