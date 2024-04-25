@@ -5814,6 +5814,8 @@
 {"id":"9886999","callsign":"DVLINK86M","fname":"Dvlink","name":"Dvlink","city":"Vienne","dept":"","land":"208","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9889020","callsign":"ZELLO99","fname":"Zello99","name":"Zello99","city":"Vienne","dept":"","land":"208","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9895001","callsign":"971DMR","fname":"Christophe","name":"Christophe","city":"Guadeloupe","dept":"","land":"208","state":"971","country":"France","remarks":"971DMR"},
+{"id":"9909301","callsign":"DF40M1","fname":"Marco","name":"Marco","city":"Landes","dept":"","land":"208","state":"40","country":"France","remarks":"FreeDMR F06DMR"}, 
+{"id":"9909302","callsign":"DF40M1","fname":"Marco","name":"Marco","city":"Landes","dept":"","land":"208","state":"40","country":"France","remarks":"FreeDMR F06DMR"},
 {"id":"9942000","callsign":"14CEM42","fname":"Emmanuel","name":"Emmanuel","city":"Loire","dept":"","land":"208","state":"42","country":"France","remarks":"42EME"},
 {"id":"9942001","callsign":"FRS065","fname":"Frederic","name":"Frederic","city":"Loire","dept":"","land":"208","state":"42","country":"France","remarks":"42EME"},
 {"id":"9942002","callsign":"14MV42","fname":"Madgid","name":"Madgid","city":"Loire","dept":"","land":"208","state":"42","country":"France","remarks":"42EME"},
