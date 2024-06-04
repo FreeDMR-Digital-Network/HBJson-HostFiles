@@ -5427,7 +5427,7 @@
 {"id":"2654255","callsign":"ST63","fname":"Thomas, Sondershausen","name":"Thomas","city":"Sondershausen","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654265","callsign":"HYPER","fname":"Johannes, Zerbst","name":"Johannes","city":"Zerbst","dept":"39261","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654318","callsign":"13HN318","fname":"Thomas, Langewahl","name":"Thomas","city":"Langewahl","dept":"15518","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2654322","callsign":"JW1HAL","fname":"Jan, Halle - Saale","name":"Jan","city":"Halle","dept":"06132","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654322","callsign":"SPATZ","fname":"Jan, Halle - Saale","name":"Jan","city":"Halle","dept":"06132","land":"12","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654333","callsign":"MARLIN","fname":"Marc, Hohen Neuendorf","name":"Marc","city":"Hohen Neuendorf","dept":"16556","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654467","callsign":"PEGASUS","fname":"Rene, Fuerstenwalde","name":"Rene","city":"Fuerstenwalde","dept":"15517","land":"3","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654476","callsign":"DAC476","fname":"Siegmar, Pirna","name":"Siegmar","city":"Pirna","dept":"01796","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
