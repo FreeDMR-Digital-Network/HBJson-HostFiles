@@ -1,4 +1,4 @@
-{"count": 5875,"results": [
+{"count": 5876,"results": [
 {"id":"173","callsign":"MUMBLE974","fname":"Mumble 974","name":"974DMR","city":"La Reunion","dept":"974","land":"208","state":"La Reunion","country":"France","remarks":"974DMR"},
 {"id":"9998","callsign":"RELAIS25","fname":"C4FM 25","name":"C4FM 25","city":"Doubs","dept":"","land":"208","state":"25","country":"France","remarks":"7360DMR"},
 {"id":"44371","callsign":"44DRM","fname":"Philippe","name":"Philippe","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
@@ -5445,6 +5445,7 @@
 {"id":"2654565","callsign":"AJ1","fname":"Andreas, Regis-Breitingen","name":"Andreas","city":"Regis-Breitingen","dept":"04565","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654567","callsign":"DIPOL1","fname":"Ralf, Leipzig","name":"Ralf","city":"Leipzig","dept":"04329","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654711","callsign":"BM4RCO","fname":"Marco, Berlin","name":"Marco","city":"Berlin","dept":"10627","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"2654712","callsign":"BM4NDY","fname":"Andy, Berlin","name":"Andy","city":"Berlin","dept":"10627","land":"2","state":"Berlin","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654790","callsign":"U96","fname":"Dennis, Bad Lausick","name":"Dennis","city":"Bad Lausick","dept":"04651","land":"13","state":"Sachsen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654910","callsign":"13OY910","fname":"Michael, Jechaburg","name":"Michael","city":"Jechaburg","dept":"99706","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2654964","callsign":"13TH1964","fname":"Maik, Bad Frankenhausen","name":"Maik","city":"Bad Frankenhausen","dept":"06567","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
@@ -5472,8 +5473,8 @@
 {"id":"2655017","callsign":"RL0RHN","fname":"Crosslink Kissinger Huette","name":"Crosslink Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655018","callsign":"RL1RHN","fname":"Relais Kissinger Huette","name":"Relais Kissinger Huette","city":"Sandberg","dept":"97657","land":"","state":"Sachsen-Anhalt","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655019","callsign":"XL0DIGI","fname":"Crosslink Auf der N8schicht","name":"Crosslink Auf der N8schicht","city":"Nieheim","dept":"33039","land":"","state":"Nordrhein-Westfalen","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2655130","callsign":"FUEWA1","fname":"Relais Freenet Fuerstenwalde","name":"Relais Freenet","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
-{"id":"2655140","callsign":"FUEWA2","fname":"Relais PMR446 Fuerstenwalde","name":"Relais PMR446","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"265513","callsign":"FUEWA1","fname":"Relais Freenet Fuerstenwalde","name":"Relais Freenet","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
+{"id":"265514","callsign":"FUEWA2","fname":"Relais PMR446 Fuerstenwalde","name":"Relais PMR446","city":"Fuerstenwalde","dept":"15517","land":"","state":"Brandenburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2655995","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
 {"id":"2655996","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
 {"id":"2655997","callsign":"TEST-ID","fname":"Test-ID User","name":"Test-ID User","city":"WorldWide","dept":"","state":"WorldWide","country":"WorldWide","remarks":"FreeDMR Digital"},
